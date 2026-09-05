@@ -28,6 +28,7 @@ Application servers process requests from users. These servers should be placed 
 ## Database
 The database stores student records. The database should remain private and should not be directly accessible from the Internet, accepting connections only from the internal application servers.
 
+
 # Public and Private Resources
 Identify whether the following resources should be Public or Private.
 Resource Public or Private? Explanation
