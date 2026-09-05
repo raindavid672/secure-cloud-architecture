@@ -18,3 +18,4 @@ Users → CDN → Load Balancer → Application Servers → Private Database
 - Logging
 - Monitoring
 - Backups
+- 
