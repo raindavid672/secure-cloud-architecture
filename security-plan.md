@@ -14,7 +14,15 @@ Then answer:
 
 # Secure Cloud Architecture Plan
 
-Users -> CDN -> Load Balancer -> Application Servers -> Private Database
+Users 
+-> 
+CDN 
+-> 
+Load Balancer 
+-> 
+Application Servers 
+-> 
+Private Database
 
 ## CDN
 The CDN stores cached copies of static content closer to users to improve loading speed.
